@@ -87,8 +87,8 @@ print(f"Probability of Placement: {placement_prob[0][1]:.2f}")
 
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: 
-RegisterNumber:  
+Developed by: Shafi Ahmed MS
+RegisterNumber: 25014933
 */
 ```
 
