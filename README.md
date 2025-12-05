@@ -1,4 +1,4 @@
-# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+<img width="1003" height="639" alt="image" src="https://github.com/user-attachments/assets/73acb82a-97ab-4b14-abed-dd2f03bf99fe" /># Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
@@ -95,7 +95,8 @@ RegisterNumber:
 
 ## Output:
 
-![Uploading image.png…]()
+<img width="1003" height="639" alt="image" src="https://github.com/user-attachments/assets/ac92e752-3e79-4a48-b210-94cc20a0bb1b" />
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
